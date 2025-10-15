@@ -52,3 +52,32 @@
 
 <br><br>
 <h2>Tools</h2>
+
+<div align="center">
+  <table style="width: 90%; border-collapse: collapse;">
+    <tr>
+      <th align="left" style="padding: 10px; width: 30%;">Category</th>
+      <th align="left" style="padding: 10px; width: 70%;">Tools</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px; vertical-align: top;"><b>Project Management</b></td>
+      <td style="padding: 10px;">Jira, Notion</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; vertical-align: top;"><b>Defect Tracking</b></td>
+      <td style="padding: 10px;">Asana, Jira</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; vertical-align: top;"><b>Others</b></td>
+      <td style="padding: 10px;">Google Suite</td>
+    </tr>
+  </table>
+</div>
+
+<p style="margin-top: 20px; width: 90%; line-height: 1.6;">
+I utilize a range of tools that enhance efficiency and collaboration throughout the QA process. 
+<strong>Jira</strong> and <strong>Notion</strong> streamline project management, task tracking, and sprint coordination with development teams. 
+For <strong>defect tracking</strong>, <strong>Asana</strong> and <strong>Jira</strong> ensure clear bug documentation, prioritization, and fast issue resolution. 
+Meanwhile, <strong>Google Suite</strong> supports test documentation, reporting, and communication—keeping workflows organized and teams aligned for smoother game development cycles.
+</p>
+
