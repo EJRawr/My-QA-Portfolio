@@ -34,4 +34,7 @@
   </tr>
 </table>
 <br><br>
+<h2>Goblin Stone</h2>
+<img scr="WorkImages/Goblin-Stone-Banner-scaled.jpg">
+<br><br>
 <h2>Tools</h2>
