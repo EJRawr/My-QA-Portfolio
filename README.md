@@ -33,8 +33,10 @@
     </td>
   </tr>
 </table>
-<br><br>
+<br>
 <h2>Goblin Stone</h2>
-<img scr="WorkImages/Goblin-Stone-Banner-scaled.jpg">
+<p align="center">
+  <img src="WorkImages/Goblin-Stone-Banner-scaled.jpg" alt="Goblin Stone Banner" width="100%">
+</p>
 <br><br>
 <h2>Tools</h2>
