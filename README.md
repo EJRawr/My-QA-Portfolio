@@ -1,7 +1,10 @@
 <h1>Edlen Jay Jareta</h1>
+
 <font size="3">Hey there! I’m Edlen — a QA Game Tester who loves diving into games to break them before players can. With hands-on experience testing across PC and mobile platforms, I focus on gameplay mechanics, UI, and performance to make every gaming experience bug-free and fun. Testing is my game, and quality is my win condition.</font>
 <br><br>
+
 <h2>My Work Experience</h2>
+
 <table>
   <tr>
     <td width="130" align="center" style="vertical-align: middle; padding-right: 20px;">
@@ -34,9 +37,19 @@
   </tr>
 </table>
 <br>
+
 <h2>Goblin Stone</h2>
 <p align="center">
-  <img src="WorkImages/Goblin-Stone-Banner-scaled.jpg" alt="Goblin Stone Banner" width="100%">
+  <img src="WorkImages/Goblin-Stone-Banner-scaled.jpg" alt="Goblin Stone Banner" width="100%" style="border: none; border-radius: 10px; margin: 20px 0;">
 </p>
+
+<h2 align="center">Goblin Stone</h2>
+
+<p align="center">
+  Goblin Stone puts you in charge of the last goblins trying to survive a world that hunts them.<br>
+  Rebuild the lair, raise your numbers, and lead expeditions in a heartwarming turn-based roguelite where every decision matters.<br><br>
+  🎮 <a href="https://store.steampowered.com/app/1521970/Goblin_Stone/" target="_blank"><b>Wishlist or Play Goblin Stone on Steam</b></a>
+</p>
+
 <br><br>
 <h2>Tools</h2>
