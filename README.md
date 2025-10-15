@@ -38,7 +38,6 @@
 </table>
 <br>
 
-<h2>Goblin Stone</h2>
 <p align="center">
   <img src="WorkImages/Goblin-Stone-Banner-scaled.jpg" alt="Goblin Stone Banner" width="100%" style="border: none; border-radius: 10px; margin: 20px 0;">
 </p>
