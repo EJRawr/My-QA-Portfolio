@@ -81,3 +81,36 @@ For <strong>defect tracking</strong>, <strong>Asana</strong> and <strong>Jira</s
 Meanwhile, <strong>Google Suite</strong> supports test documentation, reporting, and communication—keeping workflows organized and teams aligned for smoother game development cycles.
 </p>
 
+<br><br>
+<h2>Certificates</h2>
+
+<div align="center">
+  <table style="width: 90%; border-collapse: collapse;">
+    <tr>
+      <th align="left" style="padding: 10px;">Certificate</th>
+      <th align="left" style="padding: 10px;">Platform</th>
+      <th align="left" style="padding: 10px;">Link</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Unit Testing for C# Developers</td>
+      <td style="padding: 10px;">Udemy</td>
+      <td style="padding: 10px;">
+        <a href="https://www.udemy.com/certificate/UC-40f0640b-1175-45bb-8a50-cfcccaaba1b6/" target="_blank">View Certificate</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Software Testing: Effective Test Case Writing and Formatting</td>
+      <td style="padding: 10px;">Udemy</td>
+      <td style="padding: 10px;">
+        <a href="https://www.udemy.com/certificate/UC-ac711320-4d90-412d-ab99-18d0eaebe1a6/" target="_blank">View Certificate</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Unit Testing for Unity 6 and C#</td>
+      <td style="padding: 10px;">Udemy</td>
+      <td style="padding: 10px;">
+        <a href="https://www.udemy.com/certificate/UC-3f19c63f-6067-4041-81f8-ffdb86845a55/" target="_blank">View Certificate</a>
+      </td>
+    </tr>
+  </table>
+</div>
